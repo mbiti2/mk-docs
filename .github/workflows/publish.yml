@@ -1,3 +1,4 @@
+name: mkdocs workflow
 on:
   push:
     branches:
